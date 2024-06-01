@@ -7,4 +7,4 @@ local messages = {
 '1337',
 }
 
---get('splashtxt').textContent = messages[math.random(1,#messages)]
+get('splashtxt').textContent = messages[math.random(1,#messages)]
